@@ -5,7 +5,7 @@ date: 2016-12-1
 categories: CSS
 ---
 
-I think I've figured out how to embed YouTube videos to my posts, following [this awesome post](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/) from Adam Wade Harris. This was a bit out of necessity, because my big occomplishment for the day was watching this Transcendent CSS talk on YouTube. 
+I think I've figured out how to embed YouTube videos to my posts, following [this awesome post](https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin) from Adam Garrett-Harris. This was a bit out of necessity, because my big occomplishment for the day was watching this Transcendent CSS talk on YouTube. 
 
 {% include youtubePlayer.html id="tMHGsaP6Zyw" %}
 
